@@ -24,6 +24,9 @@ Download the python files for data augmentation, image resizing, and for the cla
 
 ## Code Overview
 
+* melanomaclassifier.zip
+  * Compressed version of the fair skin/dark skin dataset used for training and testing the model.   
+
 * fair_dark_split.csv 
   * CSV file that contains the image names and target labels for the dataset.
 
